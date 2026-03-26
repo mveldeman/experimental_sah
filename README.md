@@ -1,6 +1,7 @@
 # Experimental SAH Analysis
 
-Analysis code for the manuscript: [your manuscript title here]
+Analysis code for the manuscript: Cerebral Autoregulation in the Hyperactue Phase After Experimental Subarachnoid Hemorrhage using an Endovascular Perforation Model
+
 
 ## Scripts
 
